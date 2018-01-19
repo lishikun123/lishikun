@@ -1,0 +1,735 @@
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1875b" }, "keyword" : "positive emotion", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1875c" }, "keyword" : "discrete emotions", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1875d" }, "keyword" : "evolution", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1875e" }, "keyword" : "dopamine", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1875f" }, "keyword" : "reward", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18760" }, "keyword" : "autonomic nervous-system", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18761" }, "keyword" : "cross-cultural recognition", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18762" }, "keyword" : "pair bond formation", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18763" }, "keyword" : "nucleus-accumbens", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18764" }, "keyword" : "facial expressions", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18765" }, "keyword" : "decision-making", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18766" }, "keyword" : "basic emotions", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18767" }, "keyword" : "intranasal oxytocin", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18768" }, "keyword" : "brain activity", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18769" }, "keyword" : "romantic love", "article_id" : "WOS:000412440500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1876c" }, "keyword" : "emotion", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1876d" }, "keyword" : "empathic accuracy", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1876e" }, "keyword" : "person perception", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1876f" }, "keyword" : "organizational behavior", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18770" }, "keyword" : "cognitive consequences", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18771" }, "keyword" : "emotional intelligence", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18772" }, "keyword" : "social-class", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18773" }, "keyword" : "metaanalysis", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18774" }, "keyword" : "performance", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18775" }, "keyword" : "mechanisms", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18776" }, "keyword" : "behavior", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18777" }, "keyword" : "cultures", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18778" }, "keyword" : "matters", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18779" }, "keyword" : "love", "article_id" : "WOS:000412440500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1877c" }, "keyword" : "cytokines", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1877d" }, "keyword" : "hpa", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1877e" }, "keyword" : "microbiome", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1877f" }, "keyword" : "stress", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18780" }, "keyword" : "vagus nerve", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18781" }, "keyword" : "major depressive disorder", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18782" }, "keyword" : "adult-onset depression", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18783" }, "keyword" : "intestinal barrier function", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18784" }, "keyword" : "acute psychological stress", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18785" }, "keyword" : "pituitary-adrenal-system", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18786" }, "keyword" : "gut-brain axis", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18787" }, "keyword" : "fecal microbiota", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18788" }, "keyword" : "life events", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18789" }, "keyword" : "bacterial translocation", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1878a" }, "keyword" : "inflammatory responses", "article_id" : "WOS:000412440500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1878d" }, "keyword" : "social network analysis", "article_id" : "WOS:000412440500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1878e" }, "keyword" : "social network sites", "article_id" : "WOS:000412440500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1878f" }, "keyword" : "anonymization", "article_id" : "WOS:000412440500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18790" }, "keyword" : "research ethics", "article_id" : "WOS:000412440500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18791" }, "keyword" : "graph enumeration", "article_id" : "WOS:000412440500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18792" }, "keyword" : "sites", "article_id" : "WOS:000412440500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18793" }, "keyword" : "facebook", "article_id" : "WOS:000412440500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18794" }, "keyword" : "ethics", "article_id" : "WOS:000412440500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18795" }, "keyword" : "media", "article_id" : "WOS:000412440500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18796" }, "keyword" : "world", "article_id" : "WOS:000412440500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18799" }, "keyword" : "self-regulation", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1879a" }, "keyword" : "psychosocial influences", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1879b" }, "keyword" : "neurofeedback", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1879c" }, "keyword" : "eeg", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1879d" }, "keyword" : "placebo", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1879e" }, "keyword" : "attention-deficit/hyperactivity disorder", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1879f" }, "keyword" : "slow cortical potentials", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187a0" }, "keyword" : "cognitive-behavioral therapy", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187a1" }, "keyword" : "randomized controlled-trials", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187a2" }, "keyword" : "eeg-neurofeedback", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187a3" }, "keyword" : "biofeedback treatment", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187a4" }, "keyword" : "tension headache", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187a5" }, "keyword" : "self-regulation", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187a6" }, "keyword" : "financial conflicts", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187a7" }, "keyword" : "anxiety disorders", "article_id" : "WOS:000412440500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187aa" }, "keyword" : "clinical psychology", "article_id" : "WOS:000412440500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187ab" }, "keyword" : "training", "article_id" : "WOS:000412440500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187ac" }, "keyword" : "clinical psychology training", "article_id" : "WOS:000412440500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187ad" }, "keyword" : "addiction", "article_id" : "WOS:000412440500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187ae" }, "keyword" : "substance abuse", "article_id" : "WOS:000412440500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187af" }, "keyword" : "substance use disorders", "article_id" : "WOS:000412440500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187b0" }, "keyword" : "use disorders", "article_id" : "WOS:000412440500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187b1" }, "keyword" : "alcohol", "article_id" : "WOS:000412440500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187b2" }, "keyword" : "programs", "article_id" : "WOS:000412440500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187b3" }, "keyword" : "trends", "article_id" : "WOS:000412440500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187b4" }, "keyword" : "model", "article_id" : "WOS:000412440500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187b7" }, "keyword" : "adaptability", "article_id" : "WOS:000412440500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187b8" }, "keyword" : "resilience", "article_id" : "WOS:000412440500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187b9" }, "keyword" : "wellbeing", "article_id" : "WOS:000412440500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187ba" }, "keyword" : "achievement", "article_id" : "WOS:000412440500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187bb" }, "keyword" : "motivation", "article_id" : "WOS:000412440500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187bc" }, "keyword" : "responses", "article_id" : "WOS:000412440500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187bd" }, "keyword" : "uncertainty", "article_id" : "WOS:000412440500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187be" }, "keyword" : "novelty", "article_id" : "WOS:000412440500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187bf" }, "keyword" : "roles", "article_id" : "WOS:000412440500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187c0" }, "keyword" : "model", "article_id" : "WOS:000412440500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187c3" }, "keyword" : "adaptability", "article_id" : "WOS:000412440500008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187c4" }, "keyword" : "diversification", "article_id" : "WOS:000412440500008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187c5" }, "keyword" : "diversified portfolio model", "article_id" : "WOS:000412440500008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187c6" }, "keyword" : "adaptability", "article_id" : "WOS:000412440500008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187c9" }, "keyword" : "terrorism", "article_id" : "WOS:000412440500009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187ca" }, "keyword" : "adolescence", "article_id" : "WOS:000412440500009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187cb" }, "keyword" : "developmental", "article_id" : "WOS:000412440500009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187cc" }, "keyword" : "sociocultural", "article_id" : "WOS:000412440500009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187cd" }, "keyword" : "youth", "article_id" : "WOS:000412440500009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187d0" }, "keyword" : "torture", "article_id" : "WOS:000412440500010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187d1" }, "keyword" : "enhanced interrogations", "article_id" : "WOS:000412440500010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187d2" }, "keyword" : "witch persecutions", "article_id" : "WOS:000412440500010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187d3" }, "keyword" : "false confessions", "article_id" : "WOS:000412440500010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187d6" }, "keyword" : "humiliation", "article_id" : "WOS:000412440500011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187d7" }, "keyword" : "dignity", "article_id" : "WOS:000412440500011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187d8" }, "keyword" : "conflict", "article_id" : "WOS:000412440500011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187d9" }, "keyword" : "global research", "article_id" : "WOS:000412440500011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187da" }, "keyword" : "relational-cultural theory", "article_id" : "WOS:000412440500011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187dd" }, "keyword" : "social support", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187de" }, "keyword" : "family", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187df" }, "keyword" : "health", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187e0" }, "keyword" : "close relationships", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187e1" }, "keyword" : "social relationships", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187e2" }, "keyword" : "social support", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187e3" }, "keyword" : "relationship science", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187e4" }, "keyword" : "salivary cortisol", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187e5" }, "keyword" : "interventions", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187e6" }, "keyword" : "stress", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187e7" }, "keyword" : "loneliness", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187e8" }, "keyword" : "marriage", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187e9" }, "keyword" : "illness", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187ea" }, "keyword" : "women", "article_id" : "WOS:000409371700001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187ed" }, "keyword" : "social networks", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187ee" }, "keyword" : "social support", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187ef" }, "keyword" : "public health", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187f0" }, "keyword" : "health promotion", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187f1" }, "keyword" : "intervention", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187f2" }, "keyword" : "all-cause mortality", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187f3" }, "keyword" : "randomized controlled-trials", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187f4" }, "keyword" : "coronary-heart-disease", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187f5" }, "keyword" : "physical-activity", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187f6" }, "keyword" : "smoking-cessation", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187f7" }, "keyword" : "meta-regression", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187f8" }, "keyword" : "risk-factors", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187f9" }, "keyword" : "metaanalysis", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187fa" }, "keyword" : "support", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187fb" }, "keyword" : "interventions", "article_id" : "WOS:000409371700002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187fe" }, "keyword" : "close relationships", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb187ff" }, "keyword" : "health", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18800" }, "keyword" : "biopsychosocial pathways", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18801" }, "keyword" : "social support", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18802" }, "keyword" : "dyadic effects", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18803" }, "keyword" : "perceived partner responsiveness", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18804" }, "keyword" : "coronary-heart-disease", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18805" }, "keyword" : "social support", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18806" }, "keyword" : "physical health", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18807" }, "keyword" : "positive events", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18808" }, "keyword" : "cardiovascular reactivity", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18809" }, "keyword" : "psychological responses", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1880a" }, "keyword" : "intimate-relationships", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1880b" }, "keyword" : "attachment theory", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1880c" }, "keyword" : "marital conflict", "article_id" : "WOS:000409371700003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1880f" }, "keyword" : "culture", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18810" }, "keyword" : "east asian", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18811" }, "keyword" : "latino", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18812" }, "keyword" : "family relationships", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18813" }, "keyword" : "health", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18814" }, "keyword" : "social support", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18815" }, "keyword" : "socioeconomic-status", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18816" }, "keyword" : "physical health", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18817" }, "keyword" : "psychological distress", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18818" }, "keyword" : "relationship quality", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18819" }, "keyword" : "blood-pressure", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1881a" }, "keyword" : "stress", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1881b" }, "keyword" : "mortality", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1881c" }, "keyword" : "context", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1881d" }, "keyword" : "self", "article_id" : "WOS:000409371700004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18820" }, "keyword" : "early life", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18821" }, "keyword" : "family", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18822" }, "keyword" : "health", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18823" }, "keyword" : "emotional security theory", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18824" }, "keyword" : "african-american youth", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18825" }, "keyword" : "socioeconomic-status", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18826" }, "keyword" : "allostatic load", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18827" }, "keyword" : "marital conflict", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18828" }, "keyword" : "parental support", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18829" }, "keyword" : "physical health", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1882a" }, "keyword" : "psychological stress", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1882b" }, "keyword" : "adolescents", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1882c" }, "keyword" : "experiences", "article_id" : "WOS:000409371700005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1882f" }, "keyword" : "aging", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18830" }, "keyword" : "health", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18831" }, "keyword" : "social conflict", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18832" }, "keyword" : "social support", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18833" }, "keyword" : "social relationships", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18834" }, "keyword" : "age-differences", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18835" }, "keyword" : "older-adults", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18836" }, "keyword" : "physical health", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18837" }, "keyword" : "emotional experience", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18838" }, "keyword" : "negative interaction", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18839" }, "keyword" : "personal networks", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1883a" }, "keyword" : "diurnal cortisol", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1883b" }, "keyword" : "spousal loss", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1883c" }, "keyword" : "support", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1883d" }, "keyword" : "mortality", "article_id" : "WOS:000409371700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18840" }, "keyword" : "coronary heart disease", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18841" }, "keyword" : "psychosocial risk", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18842" }, "keyword" : "couples", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18843" }, "keyword" : "intimate relationships", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18844" }, "keyword" : "posttraumatic-stress-disorder", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18845" }, "keyword" : "couple relationship education", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18846" }, "keyword" : "randomized controlled-trial", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18847" }, "keyword" : "patient data metaanalysis", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18848" }, "keyword" : "same-sex couples", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18849" }, "keyword" : "marital quality", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1884a" }, "keyword" : "socioeconomic-status", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1884b" }, "keyword" : "cardiac rehabilitation", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1884c" }, "keyword" : "cardiovascular-disease", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1884d" }, "keyword" : "myocardial-infarction", "article_id" : "WOS:000409371700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18850" }, "keyword" : "family relationships", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18851" }, "keyword" : "social support", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18852" }, "keyword" : "social negativity", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18853" }, "keyword" : "oxytocin", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18854" }, "keyword" : "biological pathways", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18855" }, "keyword" : "oxytocin receptor gene", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18856" }, "keyword" : "social support", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18857" }, "keyword" : "relationship quality", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18858" }, "keyword" : "intranasal oxytocin", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18859" }, "keyword" : "cardiovascular reactivity", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1885a" }, "keyword" : "marital interactions", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1885b" }, "keyword" : "psychosocial stress", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1885c" }, "keyword" : "couple interactions", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1885d" }, "keyword" : "positive emotions", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1885e" }, "keyword" : "adult attachment", "article_id" : "WOS:000409371700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18861" }, "keyword" : "family relationships", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18862" }, "keyword" : "interventions", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18863" }, "keyword" : "chronic disease", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18864" }, "keyword" : "dyadic", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18865" }, "keyword" : "randomized controlled-trial", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18866" }, "keyword" : "family systems therapy", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18867" }, "keyword" : "health behavior-change", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18868" }, "keyword" : "density-lipoprotein cholesterol", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18869" }, "keyword" : "couple-oriented interventions", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1886a" }, "keyword" : "style change intervention", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1886b" }, "keyword" : "quality-of-life", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1886c" }, "keyword" : "diabetes management", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1886d" }, "keyword" : "asthma management", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1886e" }, "keyword" : "physical-activity", "article_id" : "WOS:000409371700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18871" }, "keyword" : "psychobiography", "article_id" : "WOS:000406286700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18872" }, "keyword" : "ethics", "article_id" : "WOS:000406286700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18873" }, "keyword" : "validity", "article_id" : "WOS:000406286700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18874" }, "keyword" : "case conceptualization", "article_id" : "WOS:000406286700006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18877" }, "keyword" : "psychobiography", "article_id" : "WOS:000406286700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18878" }, "keyword" : "big five", "article_id" : "WOS:000406286700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18879" }, "keyword" : "attachment theory", "article_id" : "WOS:000406286700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1887a" }, "keyword" : "script theory", "article_id" : "WOS:000406286700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1887b" }, "keyword" : "personality", "article_id" : "WOS:000406286700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1887c" }, "keyword" : "5 personality-traits", "article_id" : "WOS:000406286700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1887d" }, "keyword" : "lives", "article_id" : "WOS:000406286700007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18880" }, "keyword" : "psychobiography psychological biography", "article_id" : "WOS:000406286700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18881" }, "keyword" : "research ethics", "article_id" : "WOS:000406286700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18882" }, "keyword" : "qualitative research", "article_id" : "WOS:000406286700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18883" }, "keyword" : "postmortem privacy", "article_id" : "WOS:000406286700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18884" }, "keyword" : "bobby fischer", "article_id" : "WOS:000406286700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18885" }, "keyword" : "psychology", "article_id" : "WOS:000406286700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18886" }, "keyword" : "biography", "article_id" : "WOS:000406286700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18887" }, "keyword" : "future", "article_id" : "WOS:000406286700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18888" }, "keyword" : "genius", "article_id" : "WOS:000406286700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18889" }, "keyword" : "lives", "article_id" : "WOS:000406286700008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1888c" }, "keyword" : "climate change skepticism", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1888d" }, "keyword" : "immunization", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1888e" }, "keyword" : "motivated cognition", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1888f" }, "keyword" : "rejection of science", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18890" }, "keyword" : "social identity", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18891" }, "keyword" : "normative social-influence", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18892" }, "keyword" : "climate-change", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18893" }, "keyword" : "conspiracy theories", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18894" }, "keyword" : "system-justification", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18895" }, "keyword" : "biased assimilation", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18896" }, "keyword" : "cultural cognition", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18897" }, "keyword" : "african-americans", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18898" }, "keyword" : "injury phobia", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18899" }, "keyword" : "united-states", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1889a" }, "keyword" : "communication", "article_id" : "WOS:000406286700009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1889d" }, "keyword" : "child development", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1889e" }, "keyword" : "maternal employment", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1889f" }, "keyword" : "obesity", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188a0" }, "keyword" : "parenting", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188a1" }, "keyword" : "paternal employment", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188a2" }, "keyword" : "body-mass index", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188a3" }, "keyword" : "work-family conflict", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188a4" }, "keyword" : "short-sleep duration", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188a5" }, "keyword" : "maternal employment", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188a6" }, "keyword" : "childhood obesity", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188a7" }, "keyword" : "overweight status", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188a8" }, "keyword" : "american children", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188a9" }, "keyword" : "young-children", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188aa" }, "keyword" : "weight-gain", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188ab" }, "keyword" : "time", "article_id" : "WOS:000406286700010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188ae" }, "keyword" : "psychosocial determinants of health", "article_id" : "WOS:000406286700011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188af" }, "keyword" : "electronic health records", "article_id" : "WOS:000406286700011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188b0" }, "keyword" : "personality", "article_id" : "WOS:000406286700011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188b3" }, "keyword" : "alternative measures", "article_id" : "WOS:000406286700012" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188b4" }, "keyword" : "content differences", "article_id" : "WOS:000406286700012" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188b5" }, "keyword" : "optimal standard measure", "article_id" : "WOS:000406286700012" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188b6" }, "keyword" : "psychology", "article_id" : "WOS:000406286700012" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188b9" }, "keyword" : "psychosocial determinants of health", "article_id" : "WOS:000406286700013" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188ba" }, "keyword" : "measurement", "article_id" : "WOS:000406286700013" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188bb" }, "keyword" : "electronic health records", "article_id" : "WOS:000406286700013" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188bc" }, "keyword" : "health", "article_id" : "WOS:000406286700013" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188bf" }, "keyword" : "alliance", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188c0" }, "keyword" : "active therapeutic ingredients", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188c1" }, "keyword" : "psychotherapy process research", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188c2" }, "keyword" : "alliance-outcome association", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188c3" }, "keyword" : "major depressive disorder", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188c4" }, "keyword" : "cognitive therapy", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188c5" }, "keyword" : "dynamic psychotherapy", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188c6" }, "keyword" : "reciprocal influence", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188c7" }, "keyword" : "outcome correlation", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188c8" }, "keyword" : "working alliance", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188c9" }, "keyword" : "panic disorder", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188ca" }, "keyword" : "between-person", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188cb" }, "keyword" : "symptom change", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188cc" }, "keyword" : "within-person", "article_id" : "WOS:000400756800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188cf" }, "keyword" : "children", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188d0" }, "keyword" : "adolescents", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188d1" }, "keyword" : "chronic health conditions", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188d2" }, "keyword" : "neurocognitive problems", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188d3" }, "keyword" : "acute lymphoblastic-leukemia", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188d4" }, "keyword" : "childhood-cancer survivor", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188d5" }, "keyword" : "congenital heart-disease", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188d6" }, "keyword" : "long-term survivors", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188d7" }, "keyword" : "acute lymphocytic-leukemia", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188d8" }, "keyword" : "pediatric brain-tumors", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188d9" }, "keyword" : "sickle-cell-disease", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188da" }, "keyword" : "white-matter volume", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188db" }, "keyword" : "working-memory", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188dc" }, "keyword" : "adult survivors", "article_id" : "WOS:000400756800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188df" }, "keyword" : "plea bargaining", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188e0" }, "keyword" : "legal decision making", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188e1" }, "keyword" : "defendants", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188e2" }, "keyword" : "defense attorneys", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188e3" }, "keyword" : "confession decisions", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188e4" }, "keyword" : "guilty-pleas", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188e5" }, "keyword" : "trial", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188e6" }, "keyword" : "innocence", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188e7" }, "keyword" : "risk", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188e8" }, "keyword" : "interrogation", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188e9" }, "keyword" : "consequences", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188ea" }, "keyword" : "intelligent", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188eb" }, "keyword" : "prosecutors", "article_id" : "WOS:000400756800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188ee" }, "keyword" : "evolutionary psychology", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188ef" }, "keyword" : "social psychology", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188f0" }, "keyword" : "cross-cultural psychology", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188f1" }, "keyword" : "misconceptions", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188f2" }, "keyword" : "universality", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188f3" }, "keyword" : "human mate preferences", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188f4" }, "keyword" : "human female orgasm", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188f5" }, "keyword" : "sex-differences", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188f6" }, "keyword" : "individual-differences", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188f7" }, "keyword" : "child-development", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188f8" }, "keyword" : "ovulatory shifts", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188f9" }, "keyword" : "social-behavior", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188fa" }, "keyword" : "evo-devo", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188fb" }, "keyword" : "perspective", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188fc" }, "keyword" : "adaptations", "article_id" : "WOS:000400756800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb188ff" }, "keyword" : "regulatory mode theory", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18900" }, "keyword" : "locomotion", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18901" }, "keyword" : "conflict resolution", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18902" }, "keyword" : "embodiment", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18903" }, "keyword" : "synchrony", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18904" }, "keyword" : "behavioral synchrony", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18905" }, "keyword" : "visual access", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18906" }, "keyword" : "interactional synchrony", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18907" }, "keyword" : "bilateral negotiation", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18908" }, "keyword" : "integrative solutions", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18909" }, "keyword" : "social-perception", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1890a" }, "keyword" : "positive affect", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1890b" }, "keyword" : "cognition", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1890c" }, "keyword" : "locomotion", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1890d" }, "keyword" : "rapport", "article_id" : "WOS:000400756800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18910" }, "keyword" : "environment", "article_id" : "WOS:000400756800006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18911" }, "keyword" : "population", "article_id" : "WOS:000400756800006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18912" }, "keyword" : "social action", "article_id" : "WOS:000400756800006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18913" }, "keyword" : "sustainability", "article_id" : "WOS:000400756800006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18916" }, "keyword" : "consumption", "article_id" : "WOS:000400756800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18917" }, "keyword" : "environment", "article_id" : "WOS:000400756800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18918" }, "keyword" : "place-based approach", "article_id" : "WOS:000400756800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18919" }, "keyword" : "population", "article_id" : "WOS:000400756800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1891a" }, "keyword" : "sustainability", "article_id" : "WOS:000400756800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1891b" }, "keyword" : "fertility", "article_id" : "WOS:000400756800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1891c" }, "keyword" : "climate", "article_id" : "WOS:000400756800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1891f" }, "keyword" : "cognitive aging", "article_id" : "WOS:000400756800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18920" }, "keyword" : "healthy aging", "article_id" : "WOS:000400756800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18921" }, "keyword" : "memory self-efficacy", "article_id" : "WOS:000400756800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18922" }, "keyword" : "personality", "article_id" : "WOS:000400756800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18923" }, "keyword" : "metaanalysis", "article_id" : "WOS:000400756800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18926" }, "keyword" : "unified clinical science", "article_id" : "WOS:000400756800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18927" }, "keyword" : "unified theory", "article_id" : "WOS:000400756800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18928" }, "keyword" : "professional psychology", "article_id" : "WOS:000400756800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18929" }, "keyword" : "training models", "article_id" : "WOS:000400756800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1892a" }, "keyword" : "biopsychosocial", "article_id" : "WOS:000400756800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1892b" }, "keyword" : "professional psychology", "article_id" : "WOS:000400756800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1892c" }, "keyword" : "knowledge system", "article_id" : "WOS:000400756800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1892d" }, "keyword" : "tree", "article_id" : "WOS:000400756800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18930" }, "keyword" : "paradigms", "article_id" : "WOS:000400756800010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18931" }, "keyword" : "professional psychology", "article_id" : "WOS:000400756800010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18932" }, "keyword" : "clinical psychology", "article_id" : "WOS:000400756800010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18933" }, "keyword" : "theoretical orientations", "article_id" : "WOS:000400756800010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18934" }, "keyword" : "kuhn", "article_id" : "WOS:000400756800010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18937" }, "keyword" : "psychological processes", "article_id" : "WOS:000400756800011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18938" }, "keyword" : "preparadigmatic", "article_id" : "WOS:000400756800011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18939" }, "keyword" : "theoretical orientations", "article_id" : "WOS:000400756800011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1893a" }, "keyword" : "first principles", "article_id" : "WOS:000400756800011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1893b" }, "keyword" : "psychology", "article_id" : "WOS:000400756800011" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1893e" }, "keyword" : "professional psychology", "article_id" : "WOS:000400756800012" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1893f" }, "keyword" : "theoretical unification", "article_id" : "WOS:000400756800012" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18940" }, "keyword" : "psychotherapy integration", "article_id" : "WOS:000400756800012" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18943" }, "keyword" : "terrorism", "article_id" : "WOS:000399092800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18944" }, "keyword" : "terrorist", "article_id" : "WOS:000399092800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18945" }, "keyword" : "behavior", "article_id" : "WOS:000399092800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18946" }, "keyword" : "radicalization", "article_id" : "WOS:000399092800001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18949" }, "keyword" : "radicalization", "article_id" : "WOS:000399092800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1894a" }, "keyword" : "terrorism", "article_id" : "WOS:000399092800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1894b" }, "keyword" : "violent extremism", "article_id" : "WOS:000399092800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1894c" }, "keyword" : "2-pyramids model", "article_id" : "WOS:000399092800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1894d" }, "keyword" : "lone wolf", "article_id" : "WOS:000399092800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1894e" }, "keyword" : "terrorism", "article_id" : "WOS:000399092800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1894f" }, "keyword" : "extremism", "article_id" : "WOS:000399092800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18950" }, "keyword" : "emotions", "article_id" : "WOS:000399092800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18951" }, "keyword" : "quest", "article_id" : "WOS:000399092800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18952" }, "keyword" : "ideas", "article_id" : "WOS:000399092800002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18955" }, "keyword" : "violent extremism", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18956" }, "keyword" : "deviance", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18957" }, "keyword" : "terrorism", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18958" }, "keyword" : "motivation", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18959" }, "keyword" : "human-motivation", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1895a" }, "keyword" : "identity fusion", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1895b" }, "keyword" : "self-regulation", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1895c" }, "keyword" : "terrorism", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1895d" }, "keyword" : "deradicalization", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1895e" }, "keyword" : "quest", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1895f" }, "keyword" : "power", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18960" }, "keyword" : "resolution", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18961" }, "keyword" : "sociology", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18962" }, "keyword" : "rejection", "article_id" : "WOS:000399092800003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18965" }, "keyword" : "terrorism", "article_id" : "WOS:000399092800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18966" }, "keyword" : "terrorist involvement", "article_id" : "WOS:000399092800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18967" }, "keyword" : "mental disorders", "article_id" : "WOS:000399092800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18968" }, "keyword" : "violence", "article_id" : "WOS:000399092800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18969" }, "keyword" : "psychopathology", "article_id" : "WOS:000399092800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1896a" }, "keyword" : "behaviors", "article_id" : "WOS:000399092800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1896b" }, "keyword" : "illness", "article_id" : "WOS:000399092800004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1896e" }, "keyword" : "recruitment", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1896f" }, "keyword" : "selection", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18970" }, "keyword" : "violent extremist organizations", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18971" }, "keyword" : "industrial psychology", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18972" }, "keyword" : "human resource management", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18973" }, "keyword" : "applicant attraction", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18974" }, "keyword" : "rebel recruitment", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18975" }, "keyword" : "firm reputation", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18976" }, "keyword" : "terrorism", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18977" }, "keyword" : "internet", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18978" }, "keyword" : "metaanalysis", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18979" }, "keyword" : "information", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1897a" }, "keyword" : "performance", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1897b" }, "keyword" : "interviews", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1897c" }, "keyword" : "volunteers", "article_id" : "WOS:000399092800005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1897f" }, "keyword" : "terrorism", "article_id" : "WOS:000399092800006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18980" }, "keyword" : "anger", "article_id" : "WOS:000399092800006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18981" }, "keyword" : "shame", "article_id" : "WOS:000399092800006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18982" }, "keyword" : "jujitsu politics", "article_id" : "WOS:000399092800006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18983" }, "keyword" : "intergroup emotions", "article_id" : "WOS:000399092800006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18984" }, "keyword" : "shame", "article_id" : "WOS:000399092800006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18985" }, "keyword" : "guilt", "article_id" : "WOS:000399092800006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18986" }, "keyword" : "anger", "article_id" : "WOS:000399092800006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18989" }, "keyword" : "interrogation", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1898a" }, "keyword" : "high-value detainees", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1898b" }, "keyword" : "torture", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1898c" }, "keyword" : "rapport", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1898d" }, "keyword" : "interpersonal skills", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1898e" }, "keyword" : "interviewing suspects", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1898f" }, "keyword" : "police interviews", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18990" }, "keyword" : "human-rights", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18991" }, "keyword" : "information", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18992" }, "keyword" : "outcomes", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18993" }, "keyword" : "tactics", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18994" }, "keyword" : "accusatorial", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18995" }, "keyword" : "confessions", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18996" }, "keyword" : "disclosure", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18997" }, "keyword" : "efficacy", "article_id" : "WOS:000399092800007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1899a" }, "keyword" : "terrorism", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1899b" }, "keyword" : "radicalization", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1899c" }, "keyword" : "risk assessment", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1899d" }, "keyword" : "decision support", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1899e" }, "keyword" : "hcr-20 version 3", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb1899f" }, "keyword" : "violence risk", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189a0" }, "keyword" : "prediction", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189a1" }, "keyword" : "management", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189a2" }, "keyword" : "behaviors", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189a3" }, "keyword" : "accuracy", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189a4" }, "keyword" : "drivers", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189a5" }, "keyword" : "program", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189a6" }, "keyword" : "threat", "article_id" : "WOS:000399092800008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189a9" }, "keyword" : "community-based participatory research", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189aa" }, "keyword" : "resilience", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189ab" }, "keyword" : "countering violent extremism", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189ac" }, "keyword" : "muslim american", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189ad" }, "keyword" : "social bonds", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189ae" }, "keyword" : "african-american", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189af" }, "keyword" : "public-health", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189b0" }, "keyword" : "participatory research", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189b1" }, "keyword" : "racial-discrimination", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189b2" }, "keyword" : "disaster resilience", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189b3" }, "keyword" : "strain theory", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189b4" }, "keyword" : "identity", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189b5" }, "keyword" : "crime", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189b6" }, "keyword" : "risk", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189b7" }, "keyword" : "association", "article_id" : "WOS:000399092800009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189ba" }, "keyword" : "children", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189bb" }, "keyword" : "youth", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189bc" }, "keyword" : "psychological therapy", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189bd" }, "keyword" : "treatment outcome", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189be" }, "keyword" : "meta-analysis", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189bf" }, "keyword" : "randomized controlled-trial", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189c0" }, "keyword" : "cognitive-behavioral-therapy", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189c1" }, "keyword" : "deficit-hyperactivity-disorder", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189c2" }, "keyword" : "child interaction therapy", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189c3" }, "keyword" : "attention-deficit/hyperactivity disorder", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189c4" }, "keyword" : "treatment foster-care", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189c5" }, "keyword" : "obsessive-compulsive disorder", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189c6" }, "keyword" : "conduct-problem children", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189c7" }, "keyword" : "1-year follow-up", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189c8" }, "keyword" : "depression prevention program", "article_id" : "WOS:000395718500001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189cb" }, "keyword" : "fda", "article_id" : "WOS:000395718500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189cc" }, "keyword" : "communication", "article_id" : "WOS:000395718500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189cd" }, "keyword" : "policy", "article_id" : "WOS:000395718500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189ce" }, "keyword" : "risk", "article_id" : "WOS:000395718500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189cf" }, "keyword" : "translation", "article_id" : "WOS:000395718500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189d0" }, "keyword" : "decision-making", "article_id" : "WOS:000395718500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189d1" }, "keyword" : "communication", "article_id" : "WOS:000395718500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189d2" }, "keyword" : "information", "article_id" : "WOS:000395718500002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189d5" }, "keyword" : "apa task force on violent media", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189d6" }, "keyword" : "video game violence", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189d7" }, "keyword" : "violence", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189d8" }, "keyword" : "aggression", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189d9" }, "keyword" : "policy", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189da" }, "keyword" : "public interest", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189db" }, "keyword" : "aggressive-behavior", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189dc" }, "keyword" : "television programs", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189dd" }, "keyword" : "prosocial behavior", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189de" }, "keyword" : "social-behavior", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189df" }, "keyword" : "youth violence", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189e0" }, "keyword" : "media violence", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189e1" }, "keyword" : "childrens", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189e2" }, "keyword" : "metaanalysis", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189e3" }, "keyword" : "attention", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189e4" }, "keyword" : "exposure", "article_id" : "WOS:000395718500003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189e7" }, "keyword" : "social media", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189e8" }, "keyword" : "text messaging", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189e9" }, "keyword" : "adolescents", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189ea" }, "keyword" : "cyberbullying", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189eb" }, "keyword" : "social exclusion", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189ec" }, "keyword" : "social networking sites", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189ed" }, "keyword" : "face-to-face", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189ee" }, "keyword" : "depressive symptoms", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189ef" }, "keyword" : "co-rumination", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189f0" }, "keyword" : "online", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189f1" }, "keyword" : "media", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189f2" }, "keyword" : "behavior", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189f3" }, "keyword" : "school", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189f4" }, "keyword" : "age", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189f5" }, "keyword" : "associations", "article_id" : "WOS:000395718500004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189f8" }, "keyword" : "telemental health", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189f9" }, "keyword" : "ethics", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189fa" }, "keyword" : "privacy", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189fb" }, "keyword" : "confidentiality", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189fc" }, "keyword" : "nsa", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189fd" }, "keyword" : "communication", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189fe" }, "keyword" : "confidentiality", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb189ff" }, "keyword" : "psychotherapy", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a00" }, "keyword" : "outcomes", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a01" }, "keyword" : "telepsychiatry", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a02" }, "keyword" : "consultation", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a03" }, "keyword" : "depression", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a04" }, "keyword" : "television", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a05" }, "keyword" : "privacy", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a06" }, "keyword" : "future", "article_id" : "WOS:000395718500005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a09" }, "keyword" : "prevention groups", "article_id" : "WOS:000395718500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a0a" }, "keyword" : "training programs", "article_id" : "WOS:000395718500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a0b" }, "keyword" : "4-year psychology bachelor's degree", "article_id" : "WOS:000395718500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a0c" }, "keyword" : "group training", "article_id" : "WOS:000395718500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a0d" }, "keyword" : "evidence-based program training", "article_id" : "WOS:000395718500006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a10" }, "keyword" : "human sciences", "article_id" : "WOS:000395718500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a11" }, "keyword" : "undergraduate education", "article_id" : "WOS:000395718500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a12" }, "keyword" : "monoculture", "article_id" : "WOS:000395718500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a13" }, "keyword" : "critical psychology", "article_id" : "WOS:000395718500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a14" }, "keyword" : "multiculturalism", "article_id" : "WOS:000395718500007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a17" }, "keyword" : "teaching", "article_id" : "WOS:000395718500008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a18" }, "keyword" : "integration", "article_id" : "WOS:000395718500008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a19" }, "keyword" : "linkage", "article_id" : "WOS:000395718500008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a1c" }, "keyword" : "ethics", "article_id" : "WOS:000395718500009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a1d" }, "keyword" : "executive coaching", "article_id" : "WOS:000395718500009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a1e" }, "keyword" : "psychotherapy", "article_id" : "WOS:000395718500009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a1f" }, "keyword" : "clinical psychology", "article_id" : "WOS:000395718500009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a20" }, "keyword" : "regulation", "article_id" : "WOS:000395718500009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a23" }, "keyword" : "executive coaching", "article_id" : "WOS:000395718500010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a24" }, "keyword" : "coaching psychology", "article_id" : "WOS:000395718500010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a25" }, "keyword" : "clinical psychology", "article_id" : "WOS:000395718500010" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a28" }, "keyword" : "patient-centered medical home", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a29" }, "keyword" : "psychology", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a2a" }, "keyword" : "health care delivery", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a2b" }, "keyword" : "mental-health-services", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a2c" }, "keyword" : "primary-care", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a2d" }, "keyword" : "behavioral health", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a2e" }, "keyword" : "professional psychology", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a2f" }, "keyword" : "united-states", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a30" }, "keyword" : "adults", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a31" }, "keyword" : "preferences", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a32" }, "keyword" : "competences", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a33" }, "keyword" : "depression", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a34" }, "keyword" : "management", "article_id" : "WOS:000393674200001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a37" }, "keyword" : "patient-centered medical home", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a38" }, "keyword" : "children", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a39" }, "keyword" : "adolescents", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a3a" }, "keyword" : "pediatric", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a3b" }, "keyword" : "integrated care", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a3c" }, "keyword" : "randomized controlled-trial", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a3d" }, "keyword" : "attention-deficit/hyperactivity disorder", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a3e" }, "keyword" : "psychiatry access project", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a3f" }, "keyword" : "primary-care clinics", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a40" }, "keyword" : "mental-health", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a41" }, "keyword" : "collaborative care", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a42" }, "keyword" : "depressed adolescents", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a43" }, "keyword" : "psychosocial problems", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a44" }, "keyword" : "social determinants", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a45" }, "keyword" : "delivery models", "article_id" : "WOS:000393674200002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a48" }, "keyword" : "patient-centered medical home", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a49" }, "keyword" : "health disparities", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a4a" }, "keyword" : "behavioral health", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a4b" }, "keyword" : "serious mental-illness", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a4c" }, "keyword" : "primary-care", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a4d" }, "keyword" : "behavioral health", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a4e" }, "keyword" : "ethnic disparities", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a4f" }, "keyword" : "united-states", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a50" }, "keyword" : "professional psychology", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a51" }, "keyword" : "social determinants", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a52" }, "keyword" : "racial disparities", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a53" }, "keyword" : "population health", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a54" }, "keyword" : "substance-abuse", "article_id" : "WOS:000393674200003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a57" }, "keyword" : "patient-centered medical home", "article_id" : "WOS:000393674200004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a58" }, "keyword" : "health service psychology", "article_id" : "WOS:000393674200004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a59" }, "keyword" : "training", "article_id" : "WOS:000393674200004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a5a" }, "keyword" : "behavioral health-care", "article_id" : "WOS:000393674200004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a5b" }, "keyword" : "professional psychology", "article_id" : "WOS:000393674200004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a5c" }, "keyword" : "competences", "article_id" : "WOS:000393674200004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a5d" }, "keyword" : "reform", "article_id" : "WOS:000393674200004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a60" }, "keyword" : "primary care", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a61" }, "keyword" : "patient-centered medical home", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a62" }, "keyword" : "payment reform", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a63" }, "keyword" : "health policy", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a64" }, "keyword" : "integrated care", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a65" }, "keyword" : "physician financial incentives", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a66" }, "keyword" : "mental-health", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a67" }, "keyword" : "united-states", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a68" }, "keyword" : "quality improvement", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a69" }, "keyword" : "preventive care", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a6a" }, "keyword" : "managed care", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a6b" }, "keyword" : "unmet need", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a6c" }, "keyword" : "services", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a6d" }, "keyword" : "disparities", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a6e" }, "keyword" : "access", "article_id" : "WOS:000393674200005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a71" }, "keyword" : "portfolio model", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a72" }, "keyword" : "adaptability", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a73" }, "keyword" : "self-efficacy", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a74" }, "keyword" : "resilience", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a75" }, "keyword" : "life roles", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a76" }, "keyword" : "cholesterol-lowering foods", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a77" }, "keyword" : "dietary portfolio", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a78" }, "keyword" : "self-complexity", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a79" }, "keyword" : "serum-lipids", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a7a" }, "keyword" : "resilience", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a7b" }, "keyword" : "psychologists", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a7c" }, "keyword" : "competence", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a7d" }, "keyword" : "extremity", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a7e" }, "keyword" : "efficacy", "article_id" : "WOS:000392213100001" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a81" }, "keyword" : "collective action", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a82" }, "keyword" : "sexism", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a83" }, "keyword" : "gender inequality", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a84" }, "keyword" : "feminism", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a85" }, "keyword" : "gender", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a86" }, "keyword" : "benevolent sexism", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a87" }, "keyword" : "hostile sexism", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a88" }, "keyword" : "intrasexual competition", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a89" }, "keyword" : "gender similarities", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a8a" }, "keyword" : "political-action", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a8b" }, "keyword" : "rape proclivity", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a8c" }, "keyword" : "social-change", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a8d" }, "keyword" : "group members", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a8e" }, "keyword" : "in-group", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a8f" }, "keyword" : "feminist", "article_id" : "WOS:000392213100002" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a92" }, "keyword" : "sport concussion", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a93" }, "keyword" : "psychology", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a94" }, "keyword" : "neuropsychology", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a95" }, "keyword" : "school psychology", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a96" }, "keyword" : "multicultural", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a97" }, "keyword" : "chronic traumatic encephalopathy", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a98" }, "keyword" : "collegiate football players", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a99" }, "keyword" : "mild head-injury", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a9a" }, "keyword" : "high-school", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a9b" }, "keyword" : "brain-injury", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a9c" }, "keyword" : "position statement", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a9d" }, "keyword" : "united-states", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a9e" }, "keyword" : "neurocognitive performance", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18a9f" }, "keyword" : "international-conference", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18aa0" }, "keyword" : "postconcussive symptoms", "article_id" : "WOS:000392213100003" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18aa3" }, "keyword" : "cross-cultural psychology", "article_id" : "WOS:000392213100004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18aa4" }, "keyword" : "cultural psychology", "article_id" : "WOS:000392213100004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18aa5" }, "keyword" : "mutual constitution principle", "article_id" : "WOS:000392213100004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18aa6" }, "keyword" : "sociocultural diversity", "article_id" : "WOS:000392213100004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18aa7" }, "keyword" : "culture", "article_id" : "WOS:000392213100004" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18aaa" }, "keyword" : "multicultural research", "article_id" : "WOS:000392213100005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18aab" }, "keyword" : "human sciences", "article_id" : "WOS:000392213100005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18aac" }, "keyword" : "monoculture", "article_id" : "WOS:000392213100005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18aad" }, "keyword" : "social justice", "article_id" : "WOS:000392213100005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18aae" }, "keyword" : "world", "article_id" : "WOS:000392213100005" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ab1" }, "keyword" : "multicultural", "article_id" : "WOS:000392213100006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ab2" }, "keyword" : "cultural", "article_id" : "WOS:000392213100006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ab3" }, "keyword" : "qualitative", "article_id" : "WOS:000392213100006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ab4" }, "keyword" : "quantitative", "article_id" : "WOS:000392213100006" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ab7" }, "keyword" : "neuroscience exclusiveness", "article_id" : "WOS:000392213100007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ab8" }, "keyword" : "inclusiveness recommended", "article_id" : "WOS:000392213100007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ab9" }, "keyword" : "eclecticism", "article_id" : "WOS:000392213100007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18aba" }, "keyword" : "unified inclusiveness", "article_id" : "WOS:000392213100007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18abb" }, "keyword" : "unification study", "article_id" : "WOS:000392213100007" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18abe" }, "keyword" : "psychology", "article_id" : "WOS:000392213100008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18abf" }, "keyword" : "neuroscience", "article_id" : "WOS:000392213100008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ac0" }, "keyword" : "neural networks", "article_id" : "WOS:000392213100008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ac1" }, "keyword" : "theoretical integration", "article_id" : "WOS:000392213100008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ac2" }, "keyword" : "levels of analysis", "article_id" : "WOS:000392213100008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ac3" }, "keyword" : "model", "article_id" : "WOS:000392213100008" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ac6" }, "keyword" : "psychology", "article_id" : "WOS:000392213100009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ac7" }, "keyword" : "neuroscience", "article_id" : "WOS:000392213100009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ac8" }, "keyword" : "reductionism", "article_id" : "WOS:000392213100009" }
+{ "_id" : { "$oid" : "5a532e365f43b81bebb18ac9" }, "keyword" : "multilevel", "article_id" : "WOS:000392213100009" }
