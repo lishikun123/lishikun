@@ -1,33 +1,16 @@
 import json
 
-file_name = 'keywords.json'
 
-f = open(file_name)
-d = 1
-dictMerged2 = {}
-try:
-    while True:
-        line = f.readline()
-        r = json.loads(line)
-        r['keyword%s'%d] = r.pop('keyword')
-        r['B%s'%d] = r.pop('article_id')
-        r['A%s'%d] = d
-        dictMerged2 = dict(dictMerged2, **r)
-        d += 1
+def load_json_file(_file_name):
+    _lines = open(_file_name).readlines()
+    _data = list()
+    for _line_index in range(0, len(_lines)):
+        _d = json.loads(_lines[_line_index])
+        _d.update({"code": _line_index + 1})
+        _data.append(_d)
+    return _data
 
-except:
-    f.close()
-m = 2
-for m in range(2,736):
-    if dictMerged2['B%s'%m] == dictMerged2['B%s'%(m-1)]:
-        dictMerged2['A%s'%m] = dictMerged2['A%s'%(m-1)]
-    else:
-        dictMerged2['A%s'%m] = dictMerged2['A%s'%(m-1)] +1
-    m+=1
-print(dictMerged2)
-for i in range(1,736):
-    for j in range(i+1,736):
-        if dictMerged2['keyword%s'%i] == dictMerged2['keyword%s'%(j)]:
-            print(dictMerged2['A%s'%i],dictMerged2['A%s'%j])
-        j += 1
-    i+= 1
+if __name__ == "__main__":
+    file_name = 'keywords.json'
+    data = load_json_file(file_name)
+    print(data)
